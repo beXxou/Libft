@@ -58,6 +58,10 @@ Clean:
 ```bash
 make clean
 make fclean
+```
+Clean and recompile:
+
+```bash
 make re
 ```
 
